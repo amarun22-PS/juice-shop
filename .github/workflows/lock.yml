@@ -1,6 +1,8 @@
 name: 'Lock Threads'
 
 on:
+  workflow_dispatch
+
  # schedule:
  #   - cron: '0 0 * * *'
 
