@@ -22,14 +22,15 @@
 > ([@vanderaj](https://twitter.com/vanderaj)) —
 > [First you 😂😂then you 😢](https://twitter.com/kramse/status/1073168529405472768)
 > ([@kramse](https://twitter.com/kramse)) —
-> [But this doesn't have anything to do with juice.](https://twitter.com/coderPatros/status/1199268774626488320)
-> ([@coderPatros' wife](https://twitter.com/coderPatros))
+> [But this doesn't have anything to do with juice.](https://twitter.com/coderPatros/status/1199268774626488320). 
+> ([@coderPatros' wife](https://twitter.com/coderPatros)) 
 
-OWASP Juice Shop is probably the most modern and sophisticated insecure web application! It can be used in security
-trainings, awareness demos, CTFs and as a guinea pig for security tools! Juice Shop encompasses vulnerabilities from the
-entire
-[OWASP Top Ten](https://owasp.org/www-project-top-ten) along with many other security flaws found in real-world
-applications!
+OWASP Arun Juice Shop is probably the most modern and sophisticated insecure
+web application! It can be used in security trainings, awareness demos,
+CTFs and as a guinea pig for security tools! Juice Shop encompasses
+vulnerabilities from the entire
+[OWASP Top Ten](https://owasp.org/www-project-top-ten) along with many
+other security flaws found in real-world applications!
 
 ![Juice Shop Screenshot Slideshow](screenshots/slideshow.gif)
 
